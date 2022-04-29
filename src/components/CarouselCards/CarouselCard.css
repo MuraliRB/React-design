@@ -1,0 +1,35 @@
+.carousel{
+    position: relative;
+    left: 71%;
+    bottom: 202px;
+    border-radius: 15px;
+    bottom: 150px;
+}
+.img-cards{
+    width: 100px;
+    height: 250px;
+    opacity: .7;
+    border: none;
+    border-radius: 15px;
+}
+
+h3{
+    font-size: 30px;
+    opacity: 1.5;
+}
+.carousel-indicators button{
+    position: relative;
+    bottom: 200px;
+    right: 100px;
+    
+}
+.carousel-control-prev-icon{
+    position: relative;
+    bottom:100px;
+    left: 260px;
+}
+.carousel-control-next-icon{
+    position: relative;
+    bottom:100px;
+    right: 0px
+}

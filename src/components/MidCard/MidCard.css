@@ -1,0 +1,45 @@
+.mid-card{
+    position: relative;
+    bottom: 180px;
+    left: 205px;
+    border: none;
+    bottom: 120px;
+}
+.card{
+    border: none;
+    background-color: beige;
+    border-radius: 10px;
+}
+.first-bar{
+    color: rgb(71, 224, 57); 
+    width: 100px;
+    height: 70px;
+    position: relative;
+    left: 70px;
+    bottom: 20px; 
+}
+.second-bar{
+    color: rgb(57, 149, 224); 
+    width: 100px;
+    height: 70px;
+    position: relative;
+    left: 70px; 
+    bottom: 20px;
+}
+.third-bar{
+    color: rgb(241, 31, 31); 
+    width: 100px;
+    height: 70px;
+    position: relative;
+    left: 70px; 
+    bottom: 20px;  
+}
+.trend-1{
+    color: rgb(71, 224, 57);
+}
+.trend-2{
+    color: rgb(57, 149, 224)
+}
+.trend-3{
+    color: rgb(241, 31, 31);
+}

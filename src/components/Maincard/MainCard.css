@@ -1,0 +1,16 @@
+.image-card{
+    width: 685px;
+    height: 250px;
+    border-radius: 15px;
+    border: none;
+}
+.card-div{
+    position: relative;
+    top: 100px;
+}
+.card{
+    position: relative;
+    left: 20%;
+    border-radius: 15px;
+    border: none;
+}
